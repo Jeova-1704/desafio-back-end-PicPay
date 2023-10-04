@@ -5,7 +5,6 @@ import br.com.picpaysimplificado.domain.user.UserType;
 import br.com.picpaysimplificado.dtos.UserDTO;
 import br.com.picpaysimplificado.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
