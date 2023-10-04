@@ -33,10 +33,10 @@ A estrutura da aplicação segue uma arquitetura MVC, que permite um desenvolvim
 ## Contato
 Se você tiver alguma dúvida ou precisar de mais informações sobre esta solução, sinta-se à vontade para entrar em contato comigo pelos links abaixo.
 
+<a href="mailto:jeovab115@gmail.com">Enviar e-mail</a>
+
 [Instagram](https://www.instagram.com/jeova_leite/)
 
 [GitHub](https://github.com/Jeova-1704)
 
 [Linkedin](https://www.linkedin.com/in/jeov%C3%A1-bezerra-leite-29127826a/)
-
-[E-mail](mailto:jeovab115@gmail.com?subject=Projeto no GitHub&body=)
